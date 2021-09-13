@@ -1,0 +1,12 @@
+{
+  "firstName": "Jhon",
+  "lastName": "Smith",
+  "email": "jhon.smith@example.com",
+  "phoneNumber": "9876543210",
+  "grade": "sixth",
+  "address": "100 E Street",
+  "city": "New York",
+  "state": "NY",
+  "zipCode": "10000",
+  "country": "USA"
+}

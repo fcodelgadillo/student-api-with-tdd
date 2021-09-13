@@ -1,0 +1,9 @@
+{
+  "mongodb":{
+    "server": "cluster0.4ljwt.mongodb.net",
+    "database": "studentAPITDD",
+    "user": "Frankydev",
+    "password": "3S2wLjvcg6JpAnz7",
+    "options": "retryWrites=true&w=majority"
+  }
+}
